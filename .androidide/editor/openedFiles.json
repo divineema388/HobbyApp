@@ -1,95 +1,20 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle.properties",
-      "selection": {
-        "end": {
-          "column": 40,
-          "index": 1616,
-          "line": 36
-        },
-        "start": {
-          "column": 40,
-          "index": 1616,
-          "line": 36
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/build.gradle.kts",
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/Layout.kt",
       "selection": {
         "end": {
           "column": 1,
-          "index": 241,
-          "line": 4
+          "index": 7009,
+          "line": 203
         },
         "start": {
           "column": 1,
-          "index": 241,
-          "line": 4
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle/wrapper/gradle-wrapper.properties",
-      "selection": {
-        "end": {
-          "column": 73,
-          "index": 138,
-          "line": 2
-        },
-        "start": {
-          "column": 73,
-          "index": 138,
-          "line": 2
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml",
-      "selection": {
-        "end": {
-          "column": 11,
-          "index": 1008,
-          "line": 26
-        },
-        "start": {
-          "column": 11,
-          "index": 1008,
-          "line": 26
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/ui/theme/Type.kt",
-      "selection": {
-        "end": {
-          "column": 1,
-          "index": 484,
-          "line": 16
-        },
-        "start": {
-          "column": 1,
-          "index": 484,
-          "line": 16
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/res/values/strings.xml",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
+          "index": 7009,
+          "line": 203
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/Layout.kt"
 }

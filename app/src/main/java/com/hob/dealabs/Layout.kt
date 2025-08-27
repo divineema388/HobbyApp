@@ -155,7 +155,6 @@ fun AddHobbyDialog(
 ) {
     var name by remember { mutableStateOf("") }
     var category by remember { mutableStateOf("") }
-    var expanded by remember { mutableStateOf(false) }
     
     val categories = listOf("Creative", "Sports", "Music", "Technology", "Outdoor", "Indoor", "Learning", "Crafts")
     
@@ -173,36 +172,20 @@ fun AddHobbyDialog(
                 
                 Spacer(modifier = Modifier.height(8.dp))
                 
-                ExposedDropdownMenuBox(
-                    expanded = expanded,
-                    onExpandedChange = { expanded = it }
-                ) {
-                    OutlinedTextField(
-                        value = category,
-                        onValueChange = { },
-                        readOnly = true,
-                        label = { Text("Category") },
-                        trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded) },
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .menuAnchor()
-                    )
-                    
-                    ExposedDropdownMenu(
-                        expanded = expanded,
-                        onDismissRequest = { expanded = false }
-                    ) {
-                        categories.forEach { cat ->
-                            DropdownMenuItem(
-                                text = { Text(cat) },
-                                onClick = {
-                                    category = cat
-                                    expanded = false
-                                }
-                            )
-                        }
-                    }
-                }
+                OutlinedTextField(
+                    value = category,
+                    onValueChange = { category = it },
+                    label = { Text("Category (e.g., Creative, Sports, Music)") },
+                    modifier = Modifier.fillMaxWidth()
+                )
+                
+                Spacer(modifier = Modifier.height(4.dp))
+                
+                Text(
+                    text = "Popular categories: ${categories.take(4).joinToString(", ")}",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
             }
         },
         confirmButton = {
