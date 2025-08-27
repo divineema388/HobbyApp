@@ -1,65 +1,20 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Hobby App/app/src/main/java/com/hob/dealabs/MainActivity.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle.properties",
       "selection": {
         "end": {
-          "column": 1,
-          "index": 2233,
-          "line": 77
+          "column": 35,
+          "index": 1540,
+          "line": 33
         },
         "start": {
-          "column": 1,
-          "index": 2233,
-          "line": 77
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Hobby App/app/src/main/java/com/hob/dealabs/ui/Layout.kt",
-      "selection": {
-        "end": {
-          "column": 1,
-          "index": 7675,
-          "line": 220
-        },
-        "start": {
-          "column": 1,
-          "index": 7675,
-          "line": 220
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Hobby App/app/src/main/java/com/hob/dealabs/ui/Not.kt",
-      "selection": {
-        "end": {
-          "column": 1,
-          "index": 3237,
-          "line": 82
-        },
-        "start": {
-          "column": 1,
-          "index": 3237,
-          "line": 82
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Hobby App/app/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 1,
-          "index": 2348,
-          "line": 82
-        },
-        "start": {
-          "column": 1,
-          "index": 2348,
-          "line": 82
+          "column": 35,
+          "index": 1540,
+          "line": 33
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Hobby App/app/build.gradle.kts"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle.properties"
 }
