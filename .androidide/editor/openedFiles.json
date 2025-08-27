@@ -14,7 +14,67 @@
           "line": 203
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 3311,
+          "line": 103
+        },
+        "start": {
+          "column": 1,
+          "index": 3311,
+          "line": 103
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/Not.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/SaveToDbTask.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 4786,
+          "line": 141
+        },
+        "start": {
+          "column": 1,
+          "index": 4786,
+          "line": 141
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 26,
+          "index": 317,
+          "line": 8
+        },
+        "start": {
+          "column": 26,
+          "index": 317,
+          "line": 8
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/Layout.kt"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml"
 }
