@@ -44,7 +44,52 @@
           "line": 2
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 1140,
+          "line": 28
+        },
+        "start": {
+          "column": 11,
+          "index": 1140,
+          "line": 28
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/java/com/hob/dealabs/ui/theme/Type.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 484,
+          "line": 16
+        },
+        "start": {
+          "column": 1,
+          "index": 484,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle/wrapper/gradle-wrapper.properties"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/res/values/strings.xml"
 }
