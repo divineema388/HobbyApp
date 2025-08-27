@@ -4,14 +4,29 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle.properties",
       "selection": {
         "end": {
-          "column": 35,
-          "index": 1540,
-          "line": 33
+          "column": 40,
+          "index": 1616,
+          "line": 36
         },
         "start": {
-          "column": 35,
-          "index": 1540,
-          "line": 33
+          "column": 40,
+          "index": 1616,
+          "line": 36
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 241,
+          "line": 4
+        },
+        "start": {
+          "column": 1,
+          "index": 241,
+          "line": 4
         }
       }
     }
