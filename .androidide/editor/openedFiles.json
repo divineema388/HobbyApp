@@ -29,7 +29,22 @@
           "line": 4
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
+          "column": 73,
+          "index": 138,
+          "line": 2
+        },
+        "start": {
+          "column": 73,
+          "index": 138,
+          "line": 2
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle.properties"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/gradle/wrapper/gradle-wrapper.properties"
 }
