@@ -50,13 +50,13 @@
       "selection": {
         "end": {
           "column": 11,
-          "index": 1140,
-          "line": 28
+          "index": 1008,
+          "line": 26
         },
         "start": {
           "column": 11,
-          "index": 1140,
-          "line": 28
+          "index": 1008,
+          "line": 26
         }
       }
     },
@@ -91,5 +91,5 @@
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/res/values/strings.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HobbyApp/app/src/main/AndroidManifest.xml"
 }
